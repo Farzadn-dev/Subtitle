@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtitleWorker", "SubtitleWorker\SubtitleWorker.csproj", "{CCC52E1D-530A-489E-8FCA-E5110F06028E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subtitle", "Subtitle\Subtitle.csproj", "{65FA8C49-1A8E-47E0-887E-EAE76122118D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCC52E1D-530A-489E-8FCA-E5110F06028E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCC52E1D-530A-489E-8FCA-E5110F06028E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCC52E1D-530A-489E-8FCA-E5110F06028E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCC52E1D-530A-489E-8FCA-E5110F06028E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65FA8C49-1A8E-47E0-887E-EAE76122118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FA8C49-1A8E-47E0-887E-EAE76122118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FA8C49-1A8E-47E0-887E-EAE76122118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FA8C49-1A8E-47E0-887E-EAE76122118D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4C1375-D344-4A69-AAE4-26E60B36A600}
+	EndGlobalSection
+EndGlobal
